@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Level Specs",
+        "pages": {
+            "/": "Introduction",
+            "/overview": "Overview"
+        }
+    },
+    {
+        "title": "Resources",
+        "pages": {
+            "/resources/level-cover": "Level Cover",
+            "/resources/level-preview": "Level Preview",
+            "/resources/level-bgm": "Level Bgm",
+            "/resources/level-data": "Level Data"
+        }
+    }
+]
