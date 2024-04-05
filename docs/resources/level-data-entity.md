@@ -6,7 +6,7 @@ Level data entity is used by engine to populate entities.
 
 ```ts
 type LevelDataEntity = {
-    ref?: string
+    name?: string
     archetype: EngineArchetypeName | (string & {})
     data: (
         | {
